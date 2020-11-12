@@ -2,17 +2,22 @@
     "name": "darkfuture-theme",
     "displayName": "Dark Future",
     "description": "DarkFuture is a vs code theme using Blade Runner 2049 MovieBarCode colors and a few  other colors that I picked it out randomly.",
-    "version": "0.0.1",
-    "publisher": "GhostofHacker",
+    "publisher": "ghostofhacker",
     "author": {
         "name": "GhostofHacker"
     },
+    "version": "2020.0.1",
     "engines": {
         "vscode": "^1.50.0"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GhostofHacker/darkfuture-theme.git"
+    },
     "keywords": [
         "Dark Future",
         "Dark Theme"
@@ -20,7 +25,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "DarkFuture Theme",
+                "label": "Dark Future Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/DarkFuture Theme-color-theme.json"
             }
