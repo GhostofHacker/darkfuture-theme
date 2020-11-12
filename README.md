@@ -1,6 +1,6 @@
 # Dark Future Theme
 
-This is a color theme that using Blade Runner 2049 MovieBarCode colors and few other colors that I picked t out randomly.
+This is a color theme that using Blade Runner 2049 MovieBarCode colors and few other colors that I picked it out randomly.
 
     !!!As time follows some colors might changes and some other color supports might be integrated!!!
 
