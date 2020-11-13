@@ -22,11 +22,9 @@ Download this repository or download the folder called ```theme-package``` it co
 
     ![Image of Terminal Panel](/readme-images/image_1.png)
 
-* Type ```code --install-extension darkfuture-theme-2020.0.1.vsix``` and hit enter. You should see the output below.
+* Type ```code --install-extension darkfuture-theme-2020.0.2.vsix``` and hit enter. You should see the output below.
 
     ![Image of Terminal Panel Ouput](/readme-images/image_2.png)
 
 You have successfully installed the theme extension.
 Now you can choose the color theme at the extension tab. 
-
-
