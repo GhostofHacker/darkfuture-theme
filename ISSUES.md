@@ -11,11 +11,24 @@
 
 ## Javascript
 
- -- this.name = name; Make the colors opposite!
+ -- this.name = name; Make the colors opposite!   
+ -- export, default has no color!   
+ •• Use different color for Alias Name!   
+ •• Meta Functions could have a better color!
+
+---
+## JSON
+
+•• It could use a better color scheme!
 
 ---
 ## Markdown 
 
 •• (---) has no colors!
+
+---
+## HTML
+
+•• None of the HTML Attributes has color!
 
 ---
