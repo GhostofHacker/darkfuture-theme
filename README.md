@@ -2,9 +2,9 @@
 
 This is a color theme that using Blade Runner 2049 MovieBarCode colors and few other colors that I picked it out randomly.
 
-    !!!As time follows some colors might changes and some other color supports might be integrated!!!
+    !!!As time follows some colors might change and some other color supports might be integrated!!!
 
-I am suggesting using ```vscode-icons``` along with this theme extension. 
+I am suggesting use of ```vscode-icons``` along with this theme extension. 
     
     Vscode-icons for file and folder icons.
 
